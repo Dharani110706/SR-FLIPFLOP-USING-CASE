@@ -72,7 +72,7 @@ endmodule
 ![sr_ff](https://github.com/user-attachments/assets/b078c504-4ca0-4e40-99ad-230298fb1eaf)
 
 **TIMING DIAGRAMS FOR FLIP FLOPS**
-![sr_ff waveform](https://github.com/user-attachments/assets/a8ba8e63-c7fe-4566-8752-9f6c25d3463f)
+![image](https://github.com/user-attachments/assets/14a4ece4-2127-4ab7-9423-1ad496d7d00c)
 
 **RESULTS**
  implement  SR flipflop using verilog and validating their functionality using their functional tables are verified.
